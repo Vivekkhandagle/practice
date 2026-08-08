@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
 
 hello this is vivek
 line 5 line 7
+=======
+101
+my name is vivek
+
+line 2
+line 3
+
+>>>>>>> Stashed changes
